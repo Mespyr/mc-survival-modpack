@@ -10,3 +10,7 @@ I don't really know what to call this, but it's a modpack for just making the ga
   - **Moog's Voyager Structure** - _(new structures)_
   - **Towns and Towers** - _(updated villages)_
   - **Explorify – Dungeons & Structures** - _(dungeons and towers duh)_
+
+**Other:**
+- **Faithful 64x** - _(resource pack)_
+- **Complementary Unbound** - _(shaders)_
